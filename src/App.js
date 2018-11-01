@@ -4,6 +4,8 @@ import './App.css';
 
 class App extends Component {
   render() {
+    const a = 1+2;
+    const b = a+3;
     return (
       <div className="App">
         <header className="App-header">
